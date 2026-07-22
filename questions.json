@@ -1,0 +1,605 @@
+[
+  {
+    "id": 1,
+    "question": "Quel langage gère la logique d'une page web ?",
+    "choix": ["CSS", "HTML", "JavaScript", "PHP"],
+    "reponseCorrecte": "JavaScript"
+  },
+  {
+    "id": 2,
+    "question": "Quelle est la capitale officielle du Bénin ?",
+    "choix": ["Cotonou", "Porto-Novo", "Parakou", "Ouidah"],
+    "reponseCorrecte": "Porto-Novo"
+  },
+  {
+    "id": 3,
+    "question": "Quel composant est le cerveau d'un ordinateur ?",
+    "choix": ["Disque dur", "Carte graphique", "Processeur", "Mémoire RAM"],
+    "reponseCorrecte": "Processeur"
+  },
+  {
+    "id": 4,
+    "question": "En quelle année a été inventé le World Wide Web ?",
+    "choix": ["1975", "1989", "1995", "2000"],
+    "reponseCorrecte": "1989"
+  },
+  {
+    "id": 5,
+    "question": "Quelle balise HTML affiche le titre principal ?",
+    "choix": ["<title>", "<p>", "<head>", "<h1>"],
+    "reponseCorrecte": "<h1>"
+  },
+  {
+    "id": 6,
+    "question": "Quel outil suit les versions d'un code source ?",
+    "choix": ["Git", "Docker", "NPM", "Composer"],
+    "reponseCorrecte": "Git"
+  },
+  {
+    "id": 7,
+    "question": "Quelle entreprise a créé le système Android ?",
+    "choix": ["Apple", "Microsoft", "Google", "Samsung"],
+    "reponseCorrecte": "Google"
+  },
+  {
+    "id": 8,
+    "question": "Quel protocole sécurise les sites web ?",
+    "choix": ["HTTP", "FTP", "HTTPS", "SMTP"],
+    "reponseCorrecte": "HTTPS"
+  },
+  {
+    "id": 9,
+    "question": "Quelle méthode JS écrit dans la console ?",
+    "choix": ["console.write", "console.log", "print", "alert"],
+    "reponseCorrecte": "console.log"
+  },
+  {
+    "id": 10,
+    "question": "Quel pays a la plus grande superficie ?",
+    "choix": ["Canada", "Chine", "États-Unis", "Russie"],
+    "reponseCorrecte": "Russie"
+  },
+  {
+    "id": 11,
+    "question": "Quel est le plus grand océan du monde ?",
+    "choix": ["Atlantique", "Indien", "Arctique", "Pacifique"],
+    "reponseCorrecte": "Pacifique"
+  },
+  {
+    "id": 12,
+    "question": "Quel est le fleuve le plus long du monde ?",
+    "choix": ["Amazone", "Nil", "Mississippi", "Yangzi Jiang"],
+    "reponseCorrecte": "Nil"
+  },
+  {
+    "id": 13,
+    "question": "Quelle est la capitale du Japon ?",
+    "choix": ["Kyoto", "Osaka", "Tokyo", "Hiroshima"],
+    "reponseCorrecte": "Tokyo"
+  },
+  {
+    "id": 14,
+    "question": "Quel continent abrite le désert du Sahara ?",
+    "choix": ["Asie", "Afrique", "Australie", "Amérique"],
+    "reponseCorrecte": "Afrique"
+  },
+  {
+    "id": 15,
+    "question": "Quel pays a pour capitale Ottawa ?",
+    "choix": ["Australie", "Canada", "Nouvelle-Zélande", "Islande"],
+    "reponseCorrecte": "Canada"
+  },
+  {
+    "id": 16,
+    "question": "Dans quel pays se trouvent les pyramides de Gizeh ?",
+    "choix": ["Grèce", "Italie", "Égypte", "Mexique"],
+    "reponseCorrecte": "Égypte"
+  },
+  {
+    "id": 17,
+    "question": "Quelle chaîne de montagnes abrite l'Everest ?",
+    "choix": ["Les Andes", "Les Alpes", "L'Himalaya", "Les Rocheuses"],
+    "reponseCorrecte": "L'Himalaya"
+  },
+  {
+    "id": 18,
+    "question": "Quel est le plus petit pays du monde ?",
+    "choix": ["Monaco", "Malte", "Saint-Marin", "Vatican"],
+    "reponseCorrecte": "Vatican"
+  },
+  {
+    "id": 19,
+    "question": "Quelle est la capitale du Royaume-Uni ?",
+    "choix": ["Dublin", "Édimbourg", "Londres", "Manchester"],
+    "reponseCorrecte": "Londres"
+  },
+  {
+    "id": 20,
+    "question": "Combien de planètes compte le système solaire ?",
+    "choix": ["7", "8", "9", "10"],
+    "reponseCorrecte": "8"
+  },
+  {
+    "id": 21,
+    "question": "Quelle planète est appelée la planète rouge ?",
+    "choix": ["Vénus", "Mars", "Jupiter", "Saturne"],
+    "reponseCorrecte": "Mars"
+  },
+  {
+    "id": 22,
+    "question": "Quel gaz les humains respirent-ils pour vivre ?",
+    "choix": ["Azote", "Dioxyde de carbone", "Oxygène", "Hydrogène"],
+    "reponseCorrecte": "Oxygène"
+  },
+  {
+    "id": 23,
+    "question": "Quel métal est liquide à température ambiante ?",
+    "choix": ["Plomb", "Mercure", "Cuivre", "Étain"],
+    "reponseCorrecte": "Mercure"
+  },
+  {
+    "id": 24,
+    "question": "Quelle est la vitesse de la lumière (environ) ?",
+    "choix": ["300 000 km/s", "150 000 km/s", "500 000 km/s", "1 000 000 km/s"],
+    "reponseCorrecte": "300 000 km/s"
+  },
+  {
+    "id": 25,
+    "question": "Quel organe pompe le sang dans le corps humain ?",
+    "choix": ["Le cerveau", "Les poumons", "Le foie", "Le cœur"],
+    "reponseCorrecte": "Le cœur"
+  },
+  {
+    "id": 26,
+    "question": "Quelle étoile est au centre de notre système ?",
+    "choix": ["Sirius", "Le Soleil", "Proxima Centauri", "Polaris"],
+    "reponseCorrecte": "Le Soleil"
+  },
+  {
+    "id": 27,
+    "question": "Quelle substance constitue la majeure partie du corps ?",
+    "choix": ["Le sang", "L'eau", "Le muscle", "La graisse"],
+    "reponseCorrecte": "L'eau"
+  },
+  {
+    "id": 28,
+    "question": "Quel est le symbole chimique de l'or ?",
+    "choix": ["Ag", "Fe", "Au", "Cu"],
+    "reponseCorrecte": "Au"
+  },
+  {
+    "id": 29,
+    "question": "Quelle est la température d'ébullition de l'eau ?",
+    "choix": ["50°C", "80°C", "100°C", "120°C"],
+    "reponseCorrecte": "100°C"
+  },
+  {
+    "id": 30,
+    "question": "Qui a peint la célèbre Joconde ?",
+    "choix": ["Claude Monet", "Pablo Picasso", "Leonardo da Vinci", "Vincent van Gogh"],
+    "reponseCorrecte": "Leonardo da Vinci"
+  },
+  {
+    "id": 31,
+    "question": "Quel auteur a écrit la pièce 'Roméo et Juliette' ?",
+    "choix": ["Molière", "William Shakespeare", "Victor Hugo", "Edgar Allan Poe"],
+    "reponseCorrecte": "William Shakespeare"
+  },
+  {
+    "id": 32,
+    "question": "Quel pays a inventé les jeux olympiques ?",
+    "choix": ["Italie", "Égypte", "Chine", "Grèce"],
+    "reponseCorrecte": "Grèce"
+  },
+  {
+    "id": 33,
+    "question": "Quel instrument de musique possède 88 touches ?",
+    "choix": ["La guitare", "Le violon", "Le piano", "La flûte"],
+    "reponseCorrecte": "Le piano"
+  },
+  {
+    "id": 34,
+    "question": "Quel animal est le plus grand mammifère marin ?",
+    "choix": ["Le requin blanc", "La baleine bleue", "Le dauphin", "L'orque"],
+    "reponseCorrecte": "La baleine bleue"
+  },
+  {
+    "id": 35,
+    "question": "Combien de jours compte une année bissextile ?",
+    "choix": ["364", "365", "366", "367"],
+    "reponseCorrecte": "366"
+  },
+  {
+    "id": 36,
+    "question": "Quelle est la monnaie unique de l'Union européenne ?",
+    "choix": ["Le Dollar", "La Livre", "L'Euro", "Le Yen"],
+    "reponseCorrecte": "L'Euro"
+  },
+  {
+    "id": 37,
+    "question": "Quel est l'oiseau qui ne peut pas voler ?",
+    "choix": ["L'aigle", "L'autruche", "Le perroquet", "Le corbeau"],
+    "reponseCorrecte": "L'autruche"
+  },
+  {
+    "id": 38,
+    "question": "Combien de secondes y a-t-il dans une heure ?",
+    "choix": ["60", "600", "3600", "86400"],
+    "reponseCorrecte": "3600"
+  },
+  {
+    "id": 39,
+    "question": "Quel super-héros utilise un bouclier étoilé ?",
+    "choix": ["Iron Man", "Batman", "Captain America", "Thor"],
+    "reponseCorrecte": "Captain America"
+  },
+  {
+    "id": 40,
+    "question": "Quel navigateur web a pour icône un renard de feu ?",
+    "choix": ["Chrome", "Safari", "Firefox", "Edge"],
+    "reponseCorrecte": "Firefox"
+  },
+  {
+    "id": 41,
+    "question": "Quelle entreprise fabrique l'iPhone ?",
+    "choix": ["Samsung", "Apple", "Microsoft", "Sony"],
+    "reponseCorrecte": "Apple"
+  },
+  {
+    "id": 42,
+    "question": "Quel mot-clé CSS modifie la couleur du texte ?",
+    "choix": ["text-color", "font-color", "color", "background-color"],
+    "reponseCorrecte": "color"
+  },
+  {
+    "id": 43,
+    "question": "Quel symbole représente un ID en CSS ?",
+    "choix": [".", "#", "*", "@"],
+    "reponseCorrecte": "#"
+  },
+  {
+    "id": 44,
+    "question": "Quel symbole représente une classe en CSS ?",
+    "choix": [".", "#", "$", "&"],
+    "reponseCorrecte": "."
+  },
+  {
+    "id": 45,
+    "question": "Quel opérateur JS vérifie l'égalité stricte ?",
+    "choix": ["=", "==", "===", "!="],
+    "reponseCorrecte": "==="
+  },
+  {
+    "id": 46,
+    "question": "Quel type de fichier porte l'extension .js ?",
+    "choix": ["Image", "Style", "Texte", "JavaScript"],
+    "reponseCorrecte": "JavaScript"
+  },
+  {
+    "id": 47,
+    "question": "Quelle base de données utilise des tableaux ?",
+    "choix": ["MongoDB", "SQL", "Redis", "Firebase"],
+    "reponseCorrecte": "SQL"
+  },
+  {
+    "id": 48,
+    "question": "Quel langage sert à styliser un site web ?",
+    "choix": ["HTML", "Python", "CSS", "PHP"],
+    "reponseCorrecte": "CSS"
+  },
+  {
+    "id": 49,
+    "question": "Quel mot-clé JS crée une variable constante ?",
+    "choix": ["let", "var", "const", "fixed"],
+    "reponseCorrecte": "const"
+  },
+  {
+    "id": 50,
+    "question": "Quel tag HTML crée un lien hypertexte ?",
+    "choix": ["<link>", "<a>", "<href>", "<nav>"],
+    "reponseCorrecte": "<a>"
+  },
+  {
+    "id": 51,
+    "question": "Quel pays abrite la statue de la Liberté ?",
+    "choix": ["France", "États-Unis", "Royaume-Uni", "Canada"],
+    "reponseCorrecte": "États-Unis"
+  },
+  {
+    "id": 52,
+    "question": "Quelle est la capitale de l'Allemagne ?",
+    "choix": ["Munich", "Francfort", "Berlin", "Hambourg"],
+    "reponseCorrecte": "Berlin"
+  },
+  {
+    "id": 53,
+    "question": "Quelle mer sépare l'Europe de l'Afrique ?",
+    "choix": ["Mer Rouge", "Mer Noire", "Mer Méditerranée", "Mer Morte"],
+    "reponseCorrecte": "Mer Méditerranée"
+  },
+  {
+    "id": 54,
+    "question": "Dans quelle ville se trouve la Tour Eiffel ?",
+    "choix": ["Lyon", "Marseille", "Paris", "Bordeaux"],
+    "reponseCorrecte": "Paris"
+  },
+  {
+    "id": 55,
+    "question": "Quel est le plus grand désert de glace du monde ?",
+    "choix": ["Sahara", "Gobi", "Arctique", "Antarctique"],
+    "reponseCorrecte": "Antarctique"
+  },
+  {
+    "id": 56,
+    "question": "Quelle est la capitale de l'Italie ?",
+    "choix": ["Milan", "Venise", "Naples", "Rome"],
+    "reponseCorrecte": "Rome"
+  },
+  {
+    "id": 57,
+    "question": "Quel pays possède la plus grande population ?",
+    "choix": ["Inde", "Chine", "États-Unis", "Indonésie"],
+    "reponseCorrecte": "Inde"
+},
+{
+    "id": 58,
+    "question": "Quelle île est un continent à elle seule ?",
+    "choix": ["Groenland", "Madagascar", "Australie", "Islande"],
+    "reponseCorrecte": "Australie"
+},
+{
+    "id": 59,
+    "question": "Quelle est la capitale de l'Espagne ?",
+    "choix": ["Barcelone", "Séville", "Madrid", "Valence"],
+    "reponseCorrecte": "Madrid"
+},
+{
+    "id": 60,
+    "question": "Quel est l'animal terrestre le plus rapide ?",
+    "choix": ["Le lion", "Le guépard", "L'antilope", "Le cheval"],
+    "reponseCorrecte": "Le guépard"
+},
+{
+    "id": 61,
+    "question": "Combien de cœurs possède une pieuvre ?",
+    "choix": ["1", "2", "3", "4"],
+    "reponseCorrecte": "3"
+},
+    {
+    "id": 62,
+    "question": "Quel mammifère est capable de voler ?",
+    "choix": ["L'écureuil volant", "La chauve-souris", "Le pigeon", "Le faucon"],
+    "reponseCorrecte": "La chauve-souris"
+},
+{
+    "id": 63,
+    "question": "Quelle science étudie les plantes ?",
+    "choix": ["La zoologie", "La géologie", "La botanique", "L'écologie"],
+    "reponseCorrecte": "La botanique"
+},
+{
+    "id": 64,
+    "question": "Quelle est la formule chimique de l'eau ?",
+    "choix": ["CO2", "H2O", "NaCl", "O2"],
+    "reponseCorrecte": "H2O"
+},
+{
+    "id": 65,
+    "question": "Quel gaz à effet de serre produit la respiration ?",
+    "choix": ["Oxygène", "Methane", "Dioxyde de carbone", "Azote"],
+    "reponseCorrecte": "Dioxyde de carbone"
+},
+{
+    "id": 66,
+    "question": "Quel os protège notre cerveau ?",
+    "choix": ["Le fémur", "La cage thoracique", "Le crâne", "La colonne"],
+    "reponseCorrecte": "Le crâne"
+},
+{
+    "id": 67,
+    "question": "Combien d'os possède un adulte (environ) ?",
+    "choix": ["106", "206", "306", "406"],
+    "reponseCorrecte": "206"
+},
+{
+    "id": 68,
+    "question": "Quelle force nous retient au sol ?",
+    "choix": ["La friction", "Le magnétisme", "La gravité", "L'inertie"],
+    "reponseCorrecte": "La gravité"
+},
+{
+    "id": 69,
+    "question": "Quel scientifique a découvert la gravité ?",
+    "choix": ["Albert Einstein", "Isaac Newton", "Galilée", "Nikola Tesla"],
+    "reponseCorrecte": "Isaac Newton"
+},
+{
+    "id": 70,
+    "question": "Quel événement a déclenché la Seconde Guerre mondiale ?",
+    "choix": ["Invasion de la Pologne", "Pearl Harbor", "Le traité de Versailles", "Révolution russe"],
+    "reponseCorrecte": "Invasion de la Pologne"
+},
+{
+    "id": 71,
+    "question": "Qui fut le premier président des États-Unis ?",
+    "choix": ["Abraham Lincoln", "George Washington", "Thomas Jefferson", "John Kennedy"],
+    "reponseCorrecte": "George Washington"
+},
+{
+    "id": 72,
+    "question": "Quel peuple a construit le Colisée ?",
+    "choix": ["Les Grecs", "Les Égyptiens", "Les Romains", "Les Mayas"],
+    "reponseCorrecte": "Les Romains"
+},
+{
+    "id": 73,
+    "question": "Quelle muraille a été construite pour protéger la Chine ?",
+    "choix": ["Mur de Berlin", "Grande Muraille", "Mur d'Hadrien", "Ligne Maginot"],
+    "reponseCorrecte": "Grande Muraille"
+    },
+{
+    "id": 74,
+    "question": "Quel naufrage célèbre a eu lieu en 1912 ?",
+    "choix": ["Le Titanic", "Le Britannic", "Le Lusitania", "L'Andrea Doria"],
+    "reponseCorrecte": "Le Titanic"
+},
+{
+    "id": 75,
+    "question": "Qui a découvert l'Amérique en 1492 ?",
+    "choix": ["Vasco de Gama", "Marco Polo", "Christophe Colomb", "Magellan"],
+    "reponseCorrecte": "Christophe Colomb"
+},
+{
+    "id": 76,
+    "question": "Quel pays a subi la révolution de 1789 ?",
+    "choix": ["Angleterre", "France", "Russie", "États-Unis"],
+    "reponseCorrecte": "France"
+},
+{
+    "id": 77,
+    "question": "Quel roi français était surnommé le Roi-Soleil ?",
+    "choix": ["Louis XIV", "Louis XVI", "Henri IV", "Charlemagne"],
+    "reponseCorrecte": "Louis XIV"
+},
+{
+    "id": 78,
+    "question": "Quel pays a inventé le papier ?",
+    "choix": ["Égypte", "Grèce", "Chine", "Inde"],
+    "reponseCorrecte": "Chine"
+},
+{
+    "id": 79,
+    "question": "Quel sport se joue avec un volant ?",
+    "choix": ["Tennis", "Badminton", "Squash", "Ping-pong"],
+    "reponseCorrecte": "Badminton"
+},
+{
+    "id": 80,
+    "question": "Tous les combien d'ans ont lieu les JO d'été ?",
+    "choix": ["2 ans", "3 ans", "4 ans", "5 ans"],
+    "reponseCorrecte": "4 ans"
+},
+{
+    "id": 81,
+    "question": "Quel pays a gagné la Coupe du Monde de football en 2022 ?",
+    "choix": ["France", "Brésil", "Argentine", "Maroc"],
+    "reponseCorrecte": "Argentine"
+},
+{
+    "id": 82,
+    "question": "Combien de joueurs forment une équipe de football ?",
+    "choix": ["9", "10", "11", "12"],
+    "reponseCorrecte": "11"
+},
+{
+    "id": 83,
+    "question": "Dans quel sport peut-on faire un 'Home Run' ?",
+    "choix": ["Cricket", "Baseball", "Golf", "Rugby"],
+    "reponseCorrecte": "Baseball"
+},
+{
+    "id": 84,
+    "question": "Quel est le score maximal parfait au bowling ?",
+    "choix": ["100", "200", "300", "400"],
+    "reponseCorrecte": "300"
+},
+{
+    "id": 85,
+    "question": "Quel super-héros noir protège le Wakanda ?",
+    "choix": ["Falcon", "Black Panther", "Luke Cage", "Blade"],
+    "reponseCorrecte": "Black Panther"
+},
+{
+    "id": 86,
+    "question": "Quel sorcier a une cicatrice en forme d'éclair ?",
+    "choix": ["Ron Weasley", "Harry Potter", "Voldemort", "Dumbledore"],
+    "reponseCorrecte": "Harry Potter"
+},
+{
+    "id": 87,
+    "question": "Quelle plateforme a pour logo un oiseau bleu transformé en X ?",
+    "choix": ["Facebook", "Twitter", "Instagram", "LinkedIn"],
+    "reponseCorrecte": "Twitter"
+},
+{
+    "id": 88,
+    "question": "Quel réseau social est basé sur de courtes vidéos ?",
+    "choix": ["Pinterest", "TikTok", "Facebook", "LinkedIn"],
+    "reponseCorrecte": "TikTok"
+},
+{
+    "id": 89,
+    "question": "Quelle plateforme de streaming a produit 'Stranger Things' ?",
+    "choix": ["Disney+", "Amazon Prime", "Netflix", "Hulu"],
+    "reponseCorrecte": "Netflix"
+},
+{
+    "id": 90,
+    "question": "Combien de couleurs forment l'arc-en-ciel ?",
+    "choix": ["5", "6", "7", "8"],
+    "reponseCorrecte": "7"
+},
+{
+    "id": 91,
+    "question": "Quelle est la couleur obtenue en mêlant bleu et jaune ?",
+    "choix": ["Orange", "Vert", "Violet", "Marron"],
+    "reponseCorrecte": "Vert"
+},
+{
+    "id": 92,
+    "question": "Quelle est la couleur obtenue en mêlant rouge et blanc ?",
+    "choix": ["Rose", "Violet", "Orange", "Gris"],
+    "reponseCorrecte": "Rose"
+},
+{
+    "id": 93,
+    "question": "Quel animal produit du miel ?",
+    "choix": ["La guêpe", "L'abeille", "Le bourdon", "La fourmi"],
+    "reponseCorrecte": "L'abeille"
+},
+{
+    "id": 94,
+    "question": "Combien de pattes ont les insectes ?",
+    "choix": ["4", "6", "8", "10"],
+    "reponseCorrecte": "6"
+},
+{
+    "id": 95,
+    "question": "Combien de pattes ont les araignées ?",
+    "choix": ["6", "8", "10", "12"],
+    "reponseCorrecte": "8"
+},
+{
+    "id": 96,
+    "question": "Quel arbre produit des glands ?",
+    "choix": ["Le sapin", "Le chêne", "Le bouleau", "Le baobab"],
+    "reponseCorrecte": "Le chêne"
+},
+{
+    "id": 97,
+    "question": "Quel aliment est la base du chocolat ?",
+    "choix": ["Le café", "Le cacao", "Le sucre", "Le lait"],
+    "reponseCorrecte": "Le cacao"
+},
+{
+    "id": 98,
+    "question": "Quelle boisson obtient-on en torréfiant des grains ?",
+    "choix": ["Le thé", "Le café", "Le jus", "Le vin"],
+    "reponseCorrecte": "Le café"
+},
+{
+    "id": 99,
+    "question": "Dans quel pays est né le groupe musical 'The Beatles' ?",
+    "choix": ["États-Unis", "Royaume-Uni", "Australie", "Allemagne"],
+    "reponseCorrecte": "Royaume-Uni"
+},
+{
+    "id": 100,
+    "question": "Quel monument parisien est situé en haut des Champs-Élysées ?",
+    "choix": ["Le Louvre", "L'Arc de Triomphe", "Notre-Dame", "Le Sacré-Cœur"],
+    "reponseCorrecte": "L'Arc de Triomphe"
+}
+]
+
+
+
