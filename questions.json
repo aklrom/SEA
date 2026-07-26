@@ -26,8 +26,8 @@
   {
     "id": 5,
     "question": "Quelle balise HTML affiche le titre principal ?",
-    "choix": ["<title>", "<p>", "<head>", "<h1>"],
-    "reponseCorrecte": "<h1>"
+    "choix": ["title", "p", "head", "h1"],
+    "reponseCorrecte": "h1"
   },
   {
     "id": 6,
@@ -296,8 +296,8 @@
   {
     "id": 50,
     "question": "Quel tag HTML crée un lien hypertexte ?",
-    "choix": ["<link>", "<a>", "<href>", "<nav>"],
-    "reponseCorrecte": "<a>"
+    "choix": ["link", "a", "<ref", "nav"],
+    "reponseCorrecte": "a"
   },
   {
     "id": 51,

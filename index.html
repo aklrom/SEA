@@ -11,7 +11,17 @@
             <h1>Le Grand QuiZ</h1>
         </header>
         <main>
-            <div id="ranksection">
+            <div id="registration">
+                <form id="formulaire">
+                    <div id="inputsection">
+                        <label for="name">Nom:</label>
+                        <input type="text" name="name" id="name">
+                    </div>
+                    <button type="submit">Valider</button>
+                </form>
+            </div>
+            <div id="gamesection" class="hidden">
+                <div id="ranksection">
                 <table>
                     <thead>
                         <tr>
@@ -78,22 +88,23 @@
 
             <div id="questionsection">
                 <div id="questionscreen">
-                    <p>Question?</p>
                 </div>
                 <div id="answers">
-                    <div id="answer1" class="answer"><p>answer1</p></div>
-                    <div id="answer2" class="answer"><p>answer2</p></div>
-                    <div id="answer3" class="answer"><p>answer3</p></div>
-                    <div id="answer4" class="answer"><p>answer4</p></div>
+                    <div id="answer1" class="answer"></div>
+                    <div id="answer2" class="answer"></div>
+                    <div id="answer3" class="answer"></div>
+                    <div id="answer4" class="answer"></div>
                 </div>
             </div>
 
             <div id="statsection">
                 <button id="joker">Joker</button>
                 <div id="point">
-                    <h3>Points</h3>
-                    <p id="points">???</p>
+                    <p id="playernamesection"></p>
+                    <p id="points">0</p>
                 </div>
+                <button id="reset">Rejouer</button>
+            </div>
             </div>
         </main>
 
